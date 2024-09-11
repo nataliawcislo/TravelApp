@@ -22,3 +22,13 @@ The **Travel App** allows users to plan routes from a starting location to a des
 5. **Route Options:**
    - Users can view available route options by clicking the "Options" button.
 
+## Demo
+
+Check out the demo of the app in action: [Demo Video](https://github.com/nataliawcislo/bookish-octo-potato/blob/main/demo.mov)
+
+## Installation
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/travel-app.git
